@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/144853
 # 작성자: 이호영
-# 작성일: 2026. 01. 19. 23:08:24
+# 작성일: 2026. 01. 19. 23:08:35
 
 -- 코드를 입력하세요
 SELECT BOOK_ID,
