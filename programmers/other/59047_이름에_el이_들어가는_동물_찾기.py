@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/59047
 # 작성자: 이호영
-# 작성일: 2026. 01. 19. 23:02:26
+# 작성일: 2026. 01. 19. 23:02:35
 
 -- 코드를 입력하세요
 SELECT animal_id,
